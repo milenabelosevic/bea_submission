@@ -1,0 +1,261 @@
+file;turn number;human_rater_1;human_rater_2;zero_shot_conversation;zero_shot_turn;zero_shot_reasoning_conversation;zero_shot_reasoning_turn;few_shot_conversation_turns;few_shot_turn_turns;few_shot_conversation_conversations;few_shot_turn_conversations;few_shot_reasoning_turn_conversations;few_shot_reasoning_conversation_conversations;few_shot_reasoning_conversation_turns;few_shot_reasoning_turn_turns ;formal_types_q;question_type;student_resp
+teacherstudentchat00024;78;2;2;3;3;3;2;3;3;4;3;3;4;4;3;ok;rfc;ackn
+teacherstudentchat00024;41;4;4;3;4;2;3;3;1;4;3;4;4;4;3;you see;rfi;ackn + follow up
+teacherstudentchat00024;105;3;3;3;3;3;2;3;3;4;4;3;4;5;2;right;rfc;ackn
+teacherstudentchat00024;45;3;3;3;3;3;3;3;2;3;4;3;4;4;5;right;rfc;ackn
+teacherstudentchat00024;22;4;4;4;4;3;3;3;4;3;4;4;3;3;3;right;rfc;ackn
+teacherstudentchat00024;119;3;3;3;4;4;4;4;3;4;4;4;4;4;3;right;rfc;ackn
+teacherstudentchat00024;118;4;4;3;4;4;3;3;3;4;4;3;4;5;3;ok;rfc;ackn
+teacherstudentchat00095;23;4;4;3;4;4;3;5;2;4;4;2;3;3;3;remember;rfi;no response
+teacherstudentchat00095;119;4;4;3;3;4;4;4;3;3;4;4;4;4;4;you know;rfi;follow_up_question
+teacherstudentchat00021;119;4;4;4;4;3;4;4;5;4;4;4;3;3;3;ok;rfi;no response
+teacherstudentchat00021;131;3;3;3;2;4;1;3;1;4;4;2;4;5;3;ok;rfc;ackn
+teacherstudentchat00021;101;3;3;4;3;4;4;4;3;4;4;3;4;5;3;ok;rfc;ackn
+teacherstudentchat00021;28;5;5;4;3;4;4;4;3;3;4;3;4;4;2;ok;rfc;follow_up_question
+teacherstudentchat00021;3;5;5;3;3;2;2;4;3;4;4;4;4;4;3;ok;rfi;ackn + follow up
+teacherstudentchat00021;48;4;4;3;3;3;2;4;4;4;5;3;3;3;5;ok;rfc;no response
+teacherstudentchat00021;138;3;3;3;3;4;2;4;4;4;4;3;4;4;4;ok;rfc;ackn
+teacherstudentchat00021;79;4;4;4;3;3;2;4;1;4;3;2;5;5;3;ok;rfi;ackn + direct response
+teacherstudentchat00021;72;4;4;4;3;4;1;4;1;4;2;3;4;4;3;you know;rfi;follow_up_question
+teacherstudentchat00021;22;4;4;3;3;3;3;4;3;3;3;3;3;4;4;you see;rfi;ackn
+teacherstudentchat00029;71;5;4;4;3;3;4;3;4;4;4;4;3;3;5;you know;rfi;ackn + follow up
+teacherstudentchat00029;160;4;4;4;4;4;3;4;2;4;4;3;4;5;3;you know;rfi;ackn
+teacherstudentchat00029;171;3;2;4;4;5;4;3;4;4;4;4;4;4;4;ok;rfc;ackn
+teacherstudentchat00029;99;2;2;4;4;4;2;3;3;4;4;4;4;5;3;you know;rfi;follow_up_question
+teacherstudentchat00029;169;4;4;4;4;3;4;4;4;4;4;4;4;4;2;ok;rfi;no response
+teacherstudentchat00005;20;3;3;4;4;3;2;4;3;4;4;3;4;4;4;ok;rfc;ackn
+teacherstudentchat00005;40;2;2;3;3;3;3;4;3;4;4;3;4;5;4;ok;rfc;no response
+teacherstudentchat00005;69;5;4;4;4;3;4;4;4;4;4;4;4;5;3;right;rfc;no response
+teacherstudentchat00022;14;2;3;4;4;3;3;4;3;4;4;3;4;3;5;ok;rfc;no response
+teacherstudentchat00022;63;3;3;3;4;3;3;4;4;4;4;4;4;4;5;ok;rfc;ackn + direct response
+teacherstudentchat00022;109;4;4;4;4;2;4;4;3;3;4;3;4;3;4;yes/no;rfi;ackn
+teacherstudentchat00022;40;4;4;4;3;3;2;4;2;4;4;4;4;4;3;you know;rfi;no response
+teacherstudentchat00022;130;4;4;3;4;3;3;4;4;4;4;3;4;3;3;right;rfc;no response
+teacherstudentchat00022;3;3;3;4;3;3;3;4;3;4;4;3;3;3;4;right;rfc;ackn
+teacherstudentchat00022;117;4;5;4;4;3;3;4;3;4;4;3;4;5;4;ok;rfc;ackn + direct response
+teacherstudentchat00022;90;3;3;4;4;2;3;4;3;4;4;4;4;4;3;right;rfc;follow_up_question
+teacherstudentchat00092;152;4;4;3;4;4;2;4;2;4;4;4;4;4;4;right;rfc;ackn
+teacherstudentchat00112;282;3;2;4;4;4;3;4;4;4;4;3;4;4;3;right;rfc;ackn
+teacherstudentchat00112;275;4;4;4;3;4;2;4;2;4;4;3;4;5;4;right;rfc;ackn
+teacherstudentchat00096;110;4;4;4;4;3;3;3;3;4;4;4;4;3;3;ok;rfc;ackn + direct response
+teacherstudentchat00101;130;3;3;3;3;4;2;4;2;2;3;4;3;5;3;ok;rfc;ackn
+teacherstudentchat00109;23;2;4;4;4;4;3;3;3;4;4;3;3;5;4;right;rfc;follow_up_question
+teacherstudentchat00109;39;5;5;4;4;4;3;3;3;4;4;4;4;4;3;right;rfc;ackn
+teacherstudentchat00109;103;4;5;4;4;3;4;4;3;4;4;4;4;5;3;you know;rfi;ackn
+teacherstudentchat00012;83;4;4;4;4;5;4;4;4;4;4;4;5;4;2;you see;rfi;neg_feedback + follow up question
+teacherstudentchat00012;84;4;4;4;3;3;3;4;4;4;4;4;5;5;3;yes/no;rfi;neg_feedback + follow up question
+teacherstudentchat00012;89;4;5;4;4;4;2;4;3;4;4;4;4;5;3;yes/no;rfi;follow_up_question
+teacherstudentchat00012;99;3;3;4;3;5;3;4;4;4;3;3;4;3;3;ok;rfc;ackn
+teacherstudentchat00012;79;2;2;3;3;3;2;4;3;4;4;3;5;5;3;right;rfc;no response
+teacherstudentchat00013;55;4;4;3;3;3;2;4;3;4;3;4;4;3;3;yes/no;rfi;ackn
+teacherstudentchat00013;14;2;4;3;3;3;2;4;5;4;4;3;4;4;4;ok;rfi;clarif_req
+teacherstudentchat00013;16;4;4;3;4;3;2;4;4;4;4;4;4;3;5;ok;rfc;ackn
+teacherstudentchat00119;55;4;5;3;4;2;4;4;4;4;4;3;3;3;3;ok;rfc;ackn
+teacherstudentchat00108;168;3;3;4;4;3;2;5;3;4;4;4;4;5;5;ok;rfc;ackn
+teacherstudentchat00031;128;4;4;4;4;4;3;5;3;4;4;4;3;3;4;ok;rfc;ackn
+teacherstudentchat00031;94;3;3;3;3;3;3;3;4;4;4;4;4;4;4;hedge;rfc;ackn + direct response
+teacherstudentchat00031;111;4;4;3;4;3;4;4;3;4;4;4;4;4;5;ok;rfi;ackn
+teacherstudentchat00031;70;4;4;3;4;4;2;3;4;5;4;3;4;5;3;ok;rfi;ackn + direct response
+teacherstudentchat00031;125;4;4;4;4;4;3;5;3;3;4;4;5;5;3;ok;rfc;ackn
+teacherstudentchat00031;132;2;2;4;3;4;2;4;4;4;4;3;4;4;4;ok;rfi;ackn
+teacherstudentchat00031;39;4;5;4;3;3;3;4;2;4;4;4;4;4;3;ok;rfc;no response
+teacherstudentchat00224;40;2;2;4;4;3;3;3;4;4;4;3;4;4;3;hedge;rfc;no response
+teacherstudentchat00224;111;2;2;4;4;4;3;4;3;4;4;3;3;4;4;ok;rfc;ackn
+teacherstudentchat00224;114;2;2;3;4;3;3;3;3;4;4;2;5;5;4;ok;rfc;ackn + direct response
+teacherstudentchat00007;1;4;3;4;3;2;2;4;1;5;4;4;5;5;4;ok;rfi;no response
+teacherstudentchat00007;84;2;2;3;3;4;2;4;4;4;4;4;5;3;3;right;rfc;ackn + direct response
+teacherstudentchat00009;2;3;3;3;3;3;2;4;3;3;3;4;3;4;4;ok;rfi;ackn
+teacherstudentchat00129;125;5;5;4;4;5;2;4;4;3;3;3;4;5;5;ok;rfi;ackn
+teacherstudentchat00129;189;4;5;4;4;4;4;4;4;4;5;3;4;4;3;ok;rfc;ackn
+teacherstudentchat00018;70;4;4;4;4;3;3;4;4;4;4;3;4;5;2;right;rfc;ackn
+teacherstudentchat00018;36;3;3;4;4;3;4;4;4;4;4;3;5;5;4;ok;rfc;ackn
+teacherstudentchat00018;111;5;4;3;3;3;2;4;3;4;4;3;3;5;3;ok;rfc;ackn
+teacherstudentchat00018;112;4;3;3;3;3;2;4;3;4;4;4;5;5;3;ok;rfc;ackn
+teacherstudentchat00018;33;2;2;3;3;3;2;4;3;4;4;3;3;5;3;ok;rfc;ackn
+teacherstudentchat00018;108;4;4;3;4;3;3;4;2;4;4;4;3;4;4;ok;rfi;no response
+teacherstudentchat00020;56;4;4;3;3;3;3;3;3;4;5;4;4;4;3;ok;rfi;ackn
+teacherstudentchat00020;35;4;4;4;4;3;3;3;4;4;4;3;3;4;5;ok;rfc;ackn
+teacherstudentchat00020;73;4;4;3;4;3;3;3;3;4;4;3;3;3;3;ok;rfc;no response
+teacherstudentchat00020;20;3;4;3;4;2;4;3;3;4;4;4;3;4;4;ok;rfc;ackn
+teacherstudentchat00020;39;3;4;4;4;2;3;3;4;4;4;3;4;4;3;ok;rfc;no response
+teacherstudentchat00020;127;4;4;5;4;3;2;4;3;4;4;3;4;4;2;ok;rfc;ackn
+teacherstudentchat00026;98;4;4;4;4;4;4;3;2;2;4;3;4;5;2;you know;rfi;ackn
+teacherstudentchat00026;79;2;2;3;4;4;4;4;3;4;4;4;3;4;4;right;rfc;no response
+teacherstudentchat00026;39;5;4;5;4;3;3;4;4;4;4;4;4;4;4;ok;rfi;ackn
+teacherstudentchat00026;16;3;2;4;4;3;4;3;4;4;4;4;4;4;2;right;rfc;ackn
+teacherstudentchat00026;45;4;4;4;3;3;2;4;5;4;3;4;4;5;3;ok;rfc;ackn
+teacherstudentchat00026;75;4;4;4;4;4;3;5;3;4;4;4;4;4;4;ok;rfc;ackn
+teacherstudentchat00026;61;4;4;4;4;3;3;4;3;3;3;3;4;4;3;ok;rfc;ackn + direct response
+teacherstudentchat00030;26;4;2;5;5;3;3;3;4;4;4;4;4;4;4;right;rfc;ackn
+teacherstudentchat00030;138;2;2;3;4;3;3;3;4;4;4;3;4;4;5;you see;rfi;ackn
+teacherstudentchat00127;111;3;3;4;3;5;3;3;3;3;4;4;4;5;4;right;rfc;ackn + direct response
+teacherstudentchat00127;44;4;4;4;3;4;4;3;2;4;4;4;4;5;2;right;rfc;ackn
+teacherstudentchat00016;80;4;1;4;4;4;1;4;3;4;4;4;4;5;4;ok;rfc;ackn
+teacherstudentchat00016;55;5;3;5;3;4;2;5;3;3;3;2;4;5;3;ok;rfc;ackn
+teacherstudentchat00016;1;5;5;4;5;3;3;5;3;4;3;4;4;5;4;ok;rfi;ackn
+teacherstudentchat00105;167;4;4;4;4;4;2;4;4;4;4;4;4;5;5;right;rfc;ackn
+teacherstudentchat00105;147;3;2;5;4;4;3;5;5;4;4;4;4;5;4;ok;rfc;no response
+teacherstudentchat00002;11;3;3;5;4;4;3;4;3;3;4;3;4;3;3;yes/no;rfi;ackn + direct response
+teacherstudentchat00002;54;2;2;4;3;2;4;4;3;4;4;4;4;4;3;ok;rfc;ackn
+teacherstudentchat00100;196;4;2;5;4;4;3;4;4;4;3;3;4;4;4;ok;rfc;ackn
+teacherstudentchat00100;45;3;3;4;4;4;3;3;4;4;4;3;4;3;3;ok;rfc;no response
+teacherstudentchat00102;108;3;3;5;3;4;2;3;4;4;4;3;2;5;4;ok;rfi;ackn + direct response
+teacherstudentchat00102;173;3;2;4;4;4;3;3;3;4;4;4;4;4;3;right;rfc;ackn
+teacherstudentchat00006;39;4;4;4;4;2;3;4;3;4;4;4;4;5;3;ok;rfc;ackn
+teacherstudentchat00006;62;4;4;4;4;3;3;3;2;4;4;3;3;4;4;ok;rfc;no response
+teacherstudentchat00006;68;3;3;5;3;3;4;3;3;4;4;4;4;4;3;right;rfc;ackn
+teacherstudentchat00006;134;4;3;3;4;3;4;4;3;4;4;2;4;3;2;ok;rfc;no response
+teacherstudentchat00006;31;3;3;4;4;3;1;4;3;4;4;3;4;3;3;right;rfc;ackn  
+teacherstudentchat00035;18;4;4;3;3;2;3;4;3;4;3;3;4;4;4;ok;rfc;ackn + direct response
+teacherstudentchat00035;8;4;4;4;3;3;2;4;3;4;5;4;5;5;3;ok;rfc;ackn
+teacherstudentchat00110;193;3;3;5;3;5;3;4;2;3;3;3;4;4;3;right;rfc;no response
+teacherstudentchat00107;34;4;3;5;4;4;3;3;3;3;4;3;3;3;4;ok;rfi;ackn
+teacherstudentchat00124;6;3;2;2;4;2;3;4;5;4;4;3;4;3;3;ok;rfi;ackn
+teacherstudentchat00124;147;4;4;3;4;3;2;4;3;4;4;3;4;3;4;hedge;rfc;no response
+teacherstudentchat00094;98;4;3;5;4;3;3;4;2;4;4;3;5;5;5;remember;rfi;ackn
+teacherstudentchat00094;147;3;3;5;4;4;2;3;3;4;4;5;4;2;4;ok;rfc;ackn
+teacherstudentchat00011;34;2;2;1;3;3;3;5;4;3;4;2;4;4;4;right;rfc;ackn + direct response
+teacherstudentchat00011;105;2;2;3;4;3;2;4;3;4;4;4;4;3;4;right;rfc;ackn + direct response
+teacherstudentchat00015;49;4;4;4;4;3;4;3;3;4;3;4;5;4;3;you see;rfi;ackn
+teacherstudentchat00015;62;4;4;3;4;3;3;4;2;4;4;2;5;4;3;right;rfc;ackn
+teacherstudentchat00015;128;4;3;4;3;3;2;4;4;4;4;3;5;4;3;ok;rfc;ackn
+teacherstudentchat00015;131;2;2;4;4;3;1;4;4;4;4;3;4;4;4;ok;rfc;no response
+teacherstudentchat00015;3;3;3;3;4;3;3;4;3;3;3;4;3;3;3;right;rfc;no response
+teacherstudentchat00121;80;4;4;4;3;4;3;3;4;4;3;4;4;4;2;right;rfi;no response
+teacherstudentchat00106;109;3;3;4;3;3;3;3;3;3;4;4;4;5;4;right;rfc;ackn
+teacherstudentchat00106;20;4;4;5;4;3;3;3;1;3;4;4;4;2;4;ok;rfc;ackn
+teacherstudentchat00106;116;3;2;4;4;4;3;4;2;4;4;2;4;5;4;right;rfi;ackn
+teacherstudentchat00093;28;3;4;4;4;3;2;3;2;4;4;4;4;5;4;right;rfc;no response
+teacherstudentchat00093;66;5;5;5;4;4;4;4;3;4;3;4;4;5;3;right;rfc;ackn
+teacherstudentchat00017;43;4;4;5;4;4;4;3;5;4;4;4;4;5;4;right;rfc;ackn
+teacherstudentchat00017;122;3;2;4;4;4;3;4;5;4;4;4;3;4;4;ok;rfc;no response
+teacherstudentchat00223;133;3;2;4;4;4;4;3;4;4;4;4;4;4;3;hedge;rfc;ackn
+teacherstudentchat00010;45;2;2;5;4;3;3;3;3;4;4;2;4;4;2;you see;rfi;no response
+teacherstudentchat00010;121;4;4;5;3;3;2;4;3;4;4;2;4;5;3;right;rfc;ackn
+teacherstudentchat00010;118;4;4;4;4;3;3;3;2;4;3;4;4;4;2;you see;rfi;ackn
+teacherstudentchat00010;43;4;4;4;4;3;3;3;3;4;4;4;4;3;2;you see;rfi;ackn
+teacherstudentchat00010;"90
+";4;4;5;3;3;4;3;2;4;4;3;4;5;4;ok;rfc;ackn
+teacherstudentchat00103;143;3;2;3;3;5;2;4;3;4;4;4;4;3;3;you see;rfi;ackn
+teacherstudentchat00103;25;4;4;4;4;3;3;4;3;4;4;4;4;4;4;yes/no;rfi;ackn
+teacherstudentchat00103;149;3;2;4;4;4;3;4;4;4;4;4;3;4;3;right;rfc;ackn
+teacherstudentchat00103;138;4;3;5;3;5;4;4;3;4;4;4;3;4;2;remember;rfi;ackn
+teacherstudentchat00117;146;3;2;5;4;4;3;4;3;4;3;4;3;3;4;right;rfc;no response
+teacherstudentchat00117;95;4;4;4;3;4;4;4;3;4;4;4;4;5;3;right;rfc;ackn
+teacherstudentchat00027;79;4;4;5;4;4;2;4;3;4;4;4;4;4;3;ok;rfc;follow_up_question
+teacherstudentchat00027;65;4;4;4;4;4;3;4;3;4;4;3;3;3;4;you see;rfi;ackn
+teacherstudentchat00027;84;5;4;5;4;3;2;3;3;4;4;3;4;4;4;right;rfc;ackn
+teacherstudentchat00027;71;4;4;4;4;3;3;3;3;4;4;3;3;5;3;you see;rfi;ackn
+teacherstudentchat00027;83;4;4;4;4;5;3;3;3;4;4;4;4;4;3;you know;rfi;ackn
+teacherstudentchat00027;123;4;4;5;3;5;3;5;4;4;3;4;5;5;3;ok;rfc;ackn
+teacherstudentchat00027;107;2;2;4;3;3;4;4;3;4;3;3;4;4;3;right;rfc;no response
+teacherstudentchat00027;57;4;4;4;4;3;2;4;3;4;4;4;3;5;4;right;rfc;ackn
+teacherstudentchat00027;10;4;5;4;4;4;3;3;3;4;4;4;4;4;4;yes/no;rfi;no response
+teacherstudentchat00027;101;4;4;5;4;2;3;5;4;4;4;4;4;5;2;ok;rfi;no response
+teacherstudentchat00008;3;3;3;4;4;2;2;3;3;4;5;5;4;5;1;ok;rfi;ackn
+teacherstudentchat00008;65;4;4;5;4;4;2;4;3;4;4;4;4;4;4;you see;rfi;ackn
+teacherstudentchat00008;90;3;4;4;4;4;4;3;4;4;3;3;4;5;4;ok;rfc;ackn
+teacherstudentchat00008;69;4;4;5;4;3;3;4;4;4;4;4;4;5;4;ok;rfc;ackn
+teacherstudentchat00008;94;4;4;5;4;4;3;4;3;4;4;4;4;3;3;ok;rfc;ackn
+teacherstudentchat00028;110;2;2;3;4;3;3;4;3;4;4;3;4;3;4;right;rfc;ackn
+teacherstudentchat00028;77;4;5;4;4;3;2;4;4;4;5;4;4;4;3;you see;rfi;no response
+teacherstudentchat00028;57;3;3;3;3;3;3;4;3;4;4;3;4;5;2;right;rfc;ackn
+teacherstudentchat00097;80;5;5;5;4;4;2;5;2;4;4;3;3;5;3;ok;rfc;no response
+teacherstudentchat00097;137;4;4;5;4;3;3;3;3;5;4;4;4;4;3;ok;rfc;ackn
+teacherstudentchat00114;218;4;4;4;4;3;1;4;5;4;4;4;4;5;3;you know;rfi;no response
+teacherstudentchat00019;39;4;4;4;4;3;3;3;4;4;3;3;4;5;3;right;rfc;follow_up_question
+teacherstudentchat00019;120;3;2;4;3;4;3;4;4;4;4;4;4;4;4;you see;rfi;ackn
+teacherstudentchat00019;127;3;2;5;3;5;3;3;3;4;4;4;4;4;4;ok;rfc;ackn
+teacherstudentchat00019;94;4;4;4;3;4;4;3;3;4;4;4;4;4;2;right;rfc;no response
+teacherstudentchat00019;17;4;4;4;4;3;4;4;2;4;4;4;4;4;4;ok + yes/no;rfi;no response
+teacherstudentchat00019;84;4;4;4;3;4;3;3;3;4;4;4;4;5;4;right;rfc;no response
+teacherstudentchat00019;114;4;4;4;3;4;3;5;2;4;4;4;3;4;2;you see;rfi;no response
+teacherstudentchat00125;90;4;4;4;4;3;3;4;3;4;4;3;3;4;2;ok;rfc;ackn
+teacherstudentchat00125;110;5;3;4;4;3;2;4;3;4;4;3;3;4;3;remember;rfi;no response
+teacherstudentchat00125;182;5;5;4;4;2;2;3;4;4;4;3;5;4;2;right;rfc;ackn
+teacherstudentchat00120;29;4;4;4;4;3;3;4;3;4;4;3;4;2;4;right;rfc;ackn
+teacherstudentchat00120;25;4;4;3;4;2;3;4;2;4;4;4;4;4;3;right;rfc;ackn
+teacherstudentchat00004;13;2;3;4;3;2;3;4;3;4;4;4;4;4;2;ok;rfc;no response
+teacherstudentchat00004;93;4;2;4;3;3;4;3;5;4;4;2;4;4;2;ok;rfc;ackn
+teacherstudentchat00033;111;4;2;5;3;4;2;3;2;4;4;4;4;3;2;right;rfc;ackn
+teacherstudentchat00025;80;4;4;5;3;3;3;4;3;4;4;4;4;3;4;ok;rfc;ackn
+teacherstudentchat00025;6;3;2;3;3;3;3;3;3;4;4;3;4;5;3;right;rfc;ackn
+teacherstudentchat00025;14;4;5;4;3;4;2;4;2;4;4;4;4;4;3;ok;rfc;no response
+teacherstudentchat00025;89;4;4;4;4;2;2;3;2;4;3;4;4;4;2;ok;rfc;no response
+teacherstudentchat00025;53;4;4;5;4;3;3;4;4;4;4;4;4;4;5;ok;rfc;ackn
+teacherstudentchat00025;94;4;4;5;4;4;3;3;4;4;4;4;4;4;4;yes/no;rfi;ackn
+teacherstudentchat00025;12;4;5;4;4;3;3;3;3;4;4;3;4;3;4;ok;rfc;no response
+teacherstudentchat00025;33;5;5;5;4;2;2;4;3;4;4;4;4;3;4;ok;rfc;ackn
+teacherstudentchat00025;21;4;4;4;3;3;2;4;5;4;4;3;4;4;4;ok;rfc;neg_feedback
+teacherstudentchat00025;44;4;5;5;4;3;2;4;1;4;4;4;5;3;4;you see;rfi;ackn
+teacherstudentchat00128;174;4;4;4;4;3;3;4;3;4;4;2;4;4;4;right;rfc;ackn
+teacherstudentchat00128;171;4;4;4;3;4;1;4;5;4;4;4;5;4;2;right, hedge;rfc;ackn
+teacherstudentchat00128;192;3;3;4;3;4;3;4;5;4;4;3;4;4;4;right;rfc;ackn
+teacherstudentchat00116;454;2;2;4;4;3;3;4;2;4;4;4;5;3;2;ok;rfc;no response
+teacherstudentchat00116;452;3;1;3;3;3;1;3;4;4;4;2;5;5;3;ok;rfc;neg_feedback
+teacherstudentchat00126;94;5;5;5;3;5;2;3;2;4;4;4;4;5;4;ok;rfc;ackn
+teacherstudentchat00034;62;3;3;5;4;4;3;4;2;4;4;3;4;4;3;ok;rfc;ackn
+teacherstudentchat00034;14;3;2;4;4;4;3;3;3;4;4;4;3;4;4;ok;rfc;ackn
+teacherstudentchat00034;64;4;4;5;4;4;4;3;4;4;4;3;4;4;2;yes/no;rfi;neg_feedback
+teacherstudentchat00034;91;4;4;4;3;4;2;4;3;4;4;4;4;3;3;right;rfc;no response
+teacherstudentchat00034;39;4;4;4;3;4;3;3;3;4;4;4;4;4;3;ok;rfc;no response
+teacherstudentchat00034;103;3;2;5;4;4;3;4;3;4;4;3;4;5;3;ok;rfc;ackn
+teacherstudentchat00034;43;5;5;4;4;5;3;3;3;4;4;4;4;3;3;right;rfc;ackn
+teacherstudentchat00034;22;4;4;4;4;3;3;4;3;4;3;3;3;5;3;ok;rfc;no response
+teacherstudentchat00024;49;4;4;4;3;3;3;3;4;4;4;3;4;3;4;yes/no;rfi;ackn
+teacherstudentchat00024;79;4;3;4;4;3;3;4;3;4;5;3;4;3;4;you see;rfi;no response
+teacherstudentchat00024;92;4;4;5;4;3;2;4;3;4;4;3;4;4;2;yes/no;rfi;ackn
+teacherstudentchat00095;14;4;4;5;4;4;3;5;3;4;4;3;4;3;4;you know;rfi;ackn
+teacherstudentchat00021;89;3;3;5;4;4;3;4;3;4;4;3;4;5;4;you see;rfi;clarif_req
+teacherstudentchat00021;10;4;4;4;4;3;3;4;3;4;4;4;4;4;2;you see;rfi;no response
+teacherstudentchat00021;57;4;4;4;4;3;3;4;3;4;3;4;4;3;5;you see;rfi;ackn
+teacherstudentchat00029;17;5;4;4;4;4;3;5;4;4;4;3;4;4;3;yes/no;rfi;ackn
+teacherstudentchat00022;48;4;4;3;4;3;5;4;2;4;4;4;3;3;4;you see;rfi;ackn
+teacherstudentchat00096;25;4;4;4;4;2;4;5;3;4;4;3;5;4;3;you know;rfi;ackn
+teacherstudentchat00013;69;3;3;4;4;3;4;4;3;4;4;4;4;5;4;you see;rfi;ackn
+teacherstudentchat00013;79;4;3;4;4;3;3;5;5;4;4;4;4;5;4;you see;rfi;ackn
+teacherstudentchat00031;116;4;5;4;4;3;4;4;5;4;4;4;4;4;3;you see;rfi;no response
+teacherstudentchat00031;90;4;4;5;4;3;2;4;5;4;4;3;3;3;4;you know;rfi;ackn
+teacherstudentchat00102;77;4;4;5;4;3;2;3;4;4;4;3;4;5;3;you know;rfi;ackn
+teacherstudentchat00102;45;4;4;4;3;3;2;3;5;4;4;3;3;5;4;you know;rfi;ackn
+teacherstudentchat00102;129;4;4;5;3;4;3;3;4;4;3;4;3;5;2;yes/no;rfi;ackn
+teacherstudentchat00006;54;4;4;4;4;3;4;4;3;4;4;4;4;5;5;you see;rfi;clarif_req
+teacherstudentchat00035;66;3;3;4;4;4;4;4;3;4;4;4;3;3;3;you see;rfi;ackn
+teacherstudentchat00110;181;2;2;4;4;4;3;3;3;4;4;3;4;4;3;you know;rfi;ackn
+teacherstudentchat00110;153;2;2;4;3;3;2;3;4;4;4;3;4;4;2;you know;rfi;ackn
+teacherstudentchat00110;40;3;2;4;3;3;1;3;2;4;4;4;4;4;4;you know;rfi;ackn
+teacherstudentchat00124;149;4;2;3;3;3;3;4;3;4;4;4;4;3;3;you know;rfi;ackn
+teacherstudentchat00115;85;4;2;4;3;4;2;3;3;4;4;4;4;5;3;you see;rfi;ackn
+teacherstudentchat00015;97;4;5;4;4;4;3;4;4;3;4;4;3;5;3;you see;rfi;ackn
+teacherstudentchat00121;121;4;5;4;3;4;4;4;3;4;4;4;4;4;4;yes/no;rfi;no response
+teacherstudentchat00121;88;5;4;4;4;4;4;4;3;4;4;3;3;3;3;yes/no;rfi;no response
+teacherstudentchat00121;75;5;4;4;4;4;4;3;4;4;4;3;3;3;2;yes/no;rfi;no response
+teacherstudentchat00098;106;5;4;4;3;2;3;4;3;4;4;4;4;3;3;you know;rfi;ackn
+teacherstudentchat00122;45;4;4;3;4;4;4;3;4;3;4;3;4;3;2;you know;rfi;no response
+teacherstudentchat00106;130;4;4;3;3;3;3;3;3;4;4;4;4;3;3;yes/no;rfi;ackn
+teacherstudentchat00106;91;4;4;4;4;3;2;2;3;4;4;4;4;5;4;you know;rfi;no response
+teacherstudentchat00106;87;4;5;4;3;4;3;4;3;4;4;4;4;3;3;right;rfc;clarif_req
+teacherstudentchat00106;112;4;4;4;3;3;2;4;1;4;4;3;4;5;4;yes/no;rfi;ackn
+teacherstudentchat00103;158;3;2;5;4;5;3;3;1;4;4;4;4;4;4;ok;rfi;ackn
+teacherstudentchat00103;155;4;4;5;3;5;3;3;5;4;4;3;2;3;2;yes/no;rfi;no response
+teacherstudentchat00117;28;4;4;4;4;4;2;3;2;4;4;3;4;4;2;you know;rfi;no response
+teacherstudentchat00027;135;3;4;5;4;3;3;3;4;4;4;4;4;3;3;you see;rfi;ackn
+teacherstudentchat00114;249;3;4;4;3;3;3;3;3;4;4;3;4;3;4;you know;rfi;no response
+teacherstudentchat00114;68;4;4;3;4;3;2;4;3;4;4;3;4;4;5;remember;rfi;ackn
+teacherstudentchat00019;59;4;5;5;4;4;3;4;3;4;4;3;4;4;4;you see;rfi;ackn
+teacherstudentchat00019;30;3;3;4;5;3;2;3;3;4;4;4;3;4;4;you see;rfi;no response
+teacherstudentchat00123;72;4;4;4;4;4;3;3;4;4;4;3;3;3;3;you know;rfi;ackn
+teacherstudentchat00123;179;4;4;4;4;4;4;4;4;4;4;3;3;4;3;remember;rfi;ackn
+teacherstudentchat00004;24;4;4;4;4;3;3;3;3;4;4;3;4;5;4;you know;rfi;ackn
+teacherstudentchat00004;82;4;4;5;3;3;3;3;3;4;4;3;4;4;3;you know;rfi;ackn
+teacherstudentchat00004;61;4;4;4;4;2;2;3;3;4;4;4;4;4;2;you know;rfi;clarif_req
+teacherstudentchat00004;15;4;4;4;3;3;2;4;4;4;4;4;4;4;4;remember;rfi;ackn
+teacherstudentchat00128;88;3;3;4;4;5;3;3;2;4;4;4;4;3;4;remember;rfi;no response
+teacherstudentchat00128;144;4;4;4;4;3;4;4;4;4;4;3;4;5;3;you know;rfi;ackn
+teacherstudentchat00128;171;4;4;5;3;5;3;4;3;4;4;3;4;5;4;right;rfc;ackn
+teacherstudentchat00128;93;4;4;4;3;3;4;4;2;4;5;4;4;4;4;you know;rfi;ackn
+teacherstudentchat00116;384;4;4;4;4;3;3;3;1;4;4;4;4;4;3;remember;rfi;ackn
+teacherstudentchat00126;71;4;4;4;4;5;3;3;5;4;5;3;4;3;3;you know;rfi;ackn
+teacherstudentchat00034;94;3;3;5;4;4;3;3;4;4;4;4;3;5;4;ok;rfi;ackn
+teacherstudentchat00034;70;5;5;4;4;4;4;3;4;4;4;3;4;4;4;yes/no;rfi;ackn
+teacherstudentchat00005;53;3;2;3;3;3;3;4;3;4;4;3;3;2;3;you see;rfi;ackn
